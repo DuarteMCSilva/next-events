@@ -13,6 +13,8 @@ export default function Events() {
 
     return (
         <>
+            <h2>Sign up</h2>
+            <button>Sign up</button>
             <div>
                 Events page!
             </div>
